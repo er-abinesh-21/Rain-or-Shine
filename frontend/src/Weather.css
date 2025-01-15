@@ -1,0 +1,161 @@
+.city-input{
+    outline: none;   
+    border-radius: 30px;
+    width: 250px;
+    height: 35px;
+    margin: 10px;
+    margin-top: 25px;
+    margin-left: 220px;
+    text-align: center;
+    border: solid 2px #ee7a22;
+    background: linear-gradient(rgb(235, 206, 151), rgb(250, 191, 140));
+    box-shadow: 0 0 20px #ff6f00;
+}
+
+.city-input:hover{
+    border: solid 2px #ee8738;
+    box-shadow: 0 0 30px #6d6d6d;
+    background: rgb(201, 201, 201)
+}
+   
+
+.button{
+    outline: none;
+    border: solid 2px #4255ff;
+    border-radius: 30px;
+    height: 26px;
+    width: 123px;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-left: 290px;
+    text-align: center;
+    background: linear-gradient(rgb(0, 221, 255), rgb(62, 113, 214));
+}
+
+.button:hover{
+    border: solid 2px #4255ff;
+    background: linear-gradient(rgb(0, 153, 255), rgb(0, 81, 255));
+    box-shadow: 0 0 20px #001aff;
+}
+
+.unit-selection{
+    display: flex;
+    flex-direction: row;
+    scale: 1.2;  
+    width: 220px;
+    color: white;
+    font-weight: bold;
+    margin-top: 250px;
+    margin-left: 235px;
+}
+
+.unit{
+    margin: 10px;
+    margin-right: 0px;
+}
+
+.metric{
+    margin: 10px;
+    margin-right: 0px;
+}
+
+.imperial{
+    margin: 10px;
+    margin-right: 0px;
+}
+
+.degree{
+    color: white;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    font-size: 75px;
+    position: absolute;
+    top:200px;
+    left: 680px;
+}
+
+.description{
+    color: white;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    position: absolute;
+    top: 300px;
+    left: 740px;
+}
+.city-name{
+    color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: 325px;
+    left: 740px;
+}
+
+.weather-icon{
+    position: absolute;
+    top: 190px;
+    left: 420px;
+    width: 150px;
+    height: 150px;
+}
+
+.humidity-logo{
+    position: absolute;
+    top: 400px;
+    left: 430px;
+}
+.humidity{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    top: 390px;
+    left: 500px;
+}
+.name1{
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'sans-serif';
+    position: absolute;
+    top: 435px;
+    left: 505px;
+}
+
+.wind-logo{
+    position: absolute;
+    top: 400px;
+    left: 700px;
+}
+.wind{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    top: 390px;
+    left: 775px;
+}
+.name2{
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'sans-serif';
+    position: absolute;
+    top: 435px;
+    left: 795px;
+}
+
+.text-danger{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 220px;
+    left: 620px;
+}
+

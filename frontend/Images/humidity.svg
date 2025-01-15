@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="CloudRain">
+  <path fill="#595bd4" d="M57,29a5,5,0,0,0,.954-9.9A9,9,0,0,0,49,11a5.995,5.995,0,0,0-8.969-5.21,12.983,12.983,0,0,0-19.966,5.059,5.984,5.984,0,0,0-8.891,6.563A6,6,0,1,0,9,29Z" class="color003f8a svgShape"></path>
+  <rect width="26" height="40" x="32" y="21" fill="#53d86a" rx="1" class="colorebe5dd svgShape"></rect>
+  <rect width="20" height="31" x="35" y="24" fill="#c2c3f6" class="colorc2dff6 svgShape"></rect>
+  <path fill="#d1d2f8" d="M55,24V45A10,10,0,0,1,45,55H35V24Z" class="colord1e7f8 svgShape"></path>
+  <path fill="#167ffc" d="M17 58a3 3 0 0 1-6 0c0-1.66 3-6 3-6S17 56.34 17 58zM11 42a3 3 0 0 1-6 0c0-1.66 3-6 3-6S11 40.34 11 42zM26 45a3 3 0 0 1-6 0c0-1.66 3-6 3-6S26 43.34 26 45zM45 29s7 8.13 7 12a7 7 0 0 1-14 0C38 37.13 45 29 45 29zM30 19a3 3 0 0 1-6 0c0-1.66 3-6 3-6S30 17.34 30 19zM21 31a3 3 0 0 1-6 0c0-1.66 3-6 3-6S21 29.34 21 31z" class="color2488ff svgShape"></path>
+  <rect width="2" height="2" x="44" y="57" fill="#ffffff" class="colorffffff svgShape"></rect>
+  <rect width="8.485" height="2" x="40.757" y="40" fill="#fe9526" transform="rotate(-45 45 41)" class="colorffda44 svgShape"></rect>
+  <circle cx="42" cy="39" r="1" fill="#fe9526" class="colorffda44 svgShape"></circle>
+  <circle cx="48" cy="43" r="1" fill="#fe9526" class="colorffda44 svgShape"></circle>
+  <path fill="#167ffc" d="M40,9v2a4,4,0,0,1,4,4h2A6.006,6.006,0,0,0,40,9Z" class="color2488ff svgShape"></path>
+</svg>

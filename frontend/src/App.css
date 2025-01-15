@@ -1,0 +1,26 @@
+body {
+  background: url("../Images/blue-sky-gradient-watercolor-background-free-vector.jpg");
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App{
+  color: white;
+  border: solid 2px rgb(104, 174, 255);
+  border-radius: 30px;
+  box-shadow: 0 0 30px 15px rgb(68, 113, 165);
+  background: linear-gradient(rgb(231, 167, 57), rgb(189, 181, 181), rgb(23, 92, 166));
+  width: 670px;
+  height: 400px;
+}
+
+.container {
+  letter-spacing: 1px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
