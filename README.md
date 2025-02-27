@@ -85,12 +85,17 @@ Follow these instructions to set up the project locally:
 ## 📸 Screenshots
 
 1. Home Page  
-   *(https://github.com/user-attachments/assets/fa260c1b-6e29-462a-ab24-9671bc736611)*
+   ![Home](https://github.com/user-attachments/assets/fa260c1b-6e29-462a-ab24-9671bc736611)
 
-2. Search Results  
-   *(https://github.com/user-attachments/assets/12515c38-9b45-4a12-b79a-f2f5a9c81673)*
+2. Search Results
 
-   *(https://github.com/user-attachments/assets/0e857a02-db86-407f-8b9e-bcef93fcb334)*
+###Demo 1:
+
+   ![Demo 1](https://github.com/user-attachments/assets/12515c38-9b45-4a12-b79a-f2f5a9c81673)*
+
+###Demo 2:
+
+   ![Demo 2](https://github.com/user-attachments/assets/0e857a02-db86-407f-8b9e-bcef93fcb334)*
 
 ---
 
@@ -111,6 +116,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🌐 Live Demo
 
-Check out the live version of the app: [Rain or Shine Demo](https://github.com/er-abinesh-21/Weather-App.git)
+Check out the live version of the app: [Rain or Shine Demo](https://rain-or-shine-701q.onrender.com/)
 
 ---
