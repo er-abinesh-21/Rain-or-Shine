@@ -159,3 +159,9 @@
     left: 620px;
 }
 
+.weather-container{
+    position: absolute;
+    top: 0px;
+    left: 300px;
+    width: 1000px;
+}
