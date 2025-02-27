@@ -15,7 +15,7 @@ const Weather = () => {
         setLoading(true);
         setError('');
         try {
-            const response = await axios.get(`https://weather-app-backend-xlp2.onrender.com`, {
+            const response = await axios.get(`https://rain-or-shine-backend.onrender.com/weather`, {
                 params: { city, unit },
             });
             setWeather(response.data);
@@ -98,8 +98,8 @@ const Weather = () => {
             {error && <div className="text-danger">{error}</div>}
             {weather && (
 
-
                 <div>
+                <div className='weather-container'>
 
                     <div className='ct'> <p className='city-name'>{weather.name}</p> </div>
 
@@ -117,6 +117,7 @@ const Weather = () => {
                     <img className='wind-logo' src="https://img.icons8.com/?size=60&id=NFarzlQfH1Dz&format=png&color=ffffff" alt="Wind-Speed"/>
                     <p className='wind'> {weather.wind.speed} {unit === 'metric' ? 'm/s' : 'mph'}</p>
                     <p className='name2'>Wind Speed</p>
+                </div>
                 </div>
             )}
         </div>
