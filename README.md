@@ -89,13 +89,13 @@ Follow these instructions to set up the project locally:
 
 2. Search Results
 
-###Demo 1:
+### Demo 1:
 
-   ![Demo 1](https://github.com/user-attachments/assets/12515c38-9b45-4a12-b79a-f2f5a9c81673)*
+   ![Demo 1](https://github.com/user-attachments/assets/12515c38-9b45-4a12-b79a-f2f5a9c81673)
 
-###Demo 2:
+### Demo 2:
 
-   ![Demo 2](https://github.com/user-attachments/assets/0e857a02-db86-407f-8b9e-bcef93fcb334)*
+   ![Demo 2](https://github.com/user-attachments/assets/0e857a02-db86-407f-8b9e-bcef93fcb334)
 
 ---
 
